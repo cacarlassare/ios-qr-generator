@@ -1,2 +1,3 @@
-# ios-qr-generator
-iOS QR Generator
+# QRGenerator
+
+A description of this package.
